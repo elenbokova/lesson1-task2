@@ -1,0 +1,22 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "model": "Audi",
+      "price": 55555,
+      "image": "http://localhost:3000/images/1.jpg"
+    },
+    {
+      "id": 2,
+      "model": "Jeep",
+      "price": 44444,
+      "image": "http://localhost:3000/images/2.jpg"
+    },
+    {
+      "id": 3,
+      "model": "Volkswagen",
+      "price": 33333,
+      "image": "http://localhost:3000/images/3.jpg"
+    }
+  ]
+}

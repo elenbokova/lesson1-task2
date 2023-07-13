@@ -1,0 +1,16 @@
+.item {
+    min-height: 240px;
+    padding: 20px;
+    color: #727272;;
+    background-color: #727272;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.text {
+    width: fit-content;
+    padding: 10px;
+    background-color: rgba(212, 212, 212, 0.9);
+}
